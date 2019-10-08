@@ -15,6 +15,7 @@
  Line 53: $Use_Manual_Location This must be set to true as automatic location has not been implemented yet
  
  Line 77: $Location is where you select the location where the computers will be moved
+ 
  *Currently there is an array list in Line 70 where you can add commonly used Distingused Names and select the location through the array's index.
 
 **This program although is working reliably is still under development and is more of a tool that you can script to fit your needs, however eventually a more stable version will be available.**
